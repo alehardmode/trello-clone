@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Live Demo
 
-[Coming Soon]
+[https://trello-clone-nine-sage.vercel.app/](https://trello-clone-nine-sage.vercel.app/)
 
 ---
 
