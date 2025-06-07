@@ -156,7 +156,7 @@ export default function Page() {
             </p>
           </div>
 
-          <div className="space-y-4">
+          <div className="space-y-4 flex flex-col items-center">
             <AuthButton />
             <p className="text-sm text-gray-700 max-w-md mx-auto">
               Join thousands of teams already using TaskFlow to streamline their workflow and boost productivity
